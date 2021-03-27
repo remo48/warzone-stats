@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/warzone-stats/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/warzone-stats/static/js/main.dfe1f34e.chunk.js",
+    "main.js.map": "/warzone-stats/static/js/main.dfe1f34e.chunk.js.map",
+    "runtime-main.js": "/warzone-stats/static/js/runtime-main.9b05858b.js",
+    "runtime-main.js.map": "/warzone-stats/static/js/runtime-main.9b05858b.js.map",
+    "static/js/2.599d2c3d.chunk.js": "/warzone-stats/static/js/2.599d2c3d.chunk.js",
+    "static/js/2.599d2c3d.chunk.js.map": "/warzone-stats/static/js/2.599d2c3d.chunk.js.map",
+    "static/js/3.f1287e8e.chunk.js": "/warzone-stats/static/js/3.f1287e8e.chunk.js",
+    "static/js/3.f1287e8e.chunk.js.map": "/warzone-stats/static/js/3.f1287e8e.chunk.js.map",
+    "index.html": "/warzone-stats/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/warzone-stats/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.599d2c3d.chunk.js.LICENSE.txt": "/warzone-stats/static/js/2.599d2c3d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/warzone-stats/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b05858b.js",
+    "static/js/2.599d2c3d.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.dfe1f34e.chunk.js"
+  ]
+}
